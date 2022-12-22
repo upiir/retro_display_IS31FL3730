@@ -3,6 +3,8 @@
 
 The LED matrices displays were first developed in 1970, so the technology is quite old, but I think you will agree that they still look great. In this video, I will use a ready-to-use board from Pimoroni, using two displays to show something like a clock with Arduino UNO. We will show 4 different digits on what´s supposed to be a 2 digit display. Each display has 5x7 (plus a decimal point) dots, and you can use custom character creators for LCD displays.
 
+**YOUTUBE VIDEO: https://youtu.be/PBaL9w5w-2c**
+
 ![THUMB_pimoroni_retro_display_arduino2](https://user-images.githubusercontent.com/117754156/209103812-3c30991b-4a9f-4d23-89fa-9971ff39334f.jpg)
 
 Links from the video:
